@@ -3,7 +3,7 @@ Comandos!!
 Subir a github
 git add
 git commit -m
-hit push
+git push
 
 
 
